@@ -6,9 +6,9 @@
  easy to reuse and informative*/
 
  const Name ="yasir"
- const wolrd ='the world is sphere'
+ const itWarm = true
  let Welcome
- let notting
+ let notting = null
 
  console.log(typeof'name')
  console.log(typeof 8)
@@ -30,6 +30,11 @@
  let lastName ='sulyman'
  let maritalStatus ='single'
  let country ='nigeria'
- let age ='19'
+ let age = 19
 
  let ffirstName ='yasir', llastName ='sulyman',mmaritalStatus ='single', ccountry ='nigeria',aage ='19'
+
+ const myAge = "I am 25 years old."
+ const yourAge = '30'
+ console.log(myAge)
+ console.log(yourAge)
