@@ -15,3 +15,19 @@ console.log(type == of)
  let py = "python"
  let ja = "jargon"
  console.log(py.includes("on") && ja.includes("on") )
+
+
+ let course = "I hope this course is not full of jargon."
+ console.log(course.includes("jargon"))
+
+ let numb = Math.floor(Math.random() * 101)
+ console.log(numb)
+
+ let number = Math.floor(Math.random() * 50) + 50
+ console.log(number)
+
+ let nummb = Math.floor(Math.random() * 255)
+ console.log(nummb)
+
+ let string = Math.floor(Math.random() * 10)
+ console.log("JavaScript".charAt(string))
